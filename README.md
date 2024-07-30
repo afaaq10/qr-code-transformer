@@ -4,6 +4,9 @@
 
 The TextToQRCode Transformer is a React-based web application that allows users to generate QR codes from text. Users can customize the QR code's background color and size. The application provides a clean and user-friendly interface for creating QR codes and offers the option to download the generated QR code as an image file.
 
+### Demo
+https://text-qr-transformer.netlify.app/
+
 ## Features
 
 - **Generate QR Codes**: Convert text into a QR code.
