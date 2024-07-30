@@ -1,5 +1,5 @@
 {
-  "name": "nitro-type",
+  "name": "text-to-qr-code",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
